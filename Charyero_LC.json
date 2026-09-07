@@ -1,5 +1,19 @@
 {
   "version": 1,
-  "payload": "",
-  "signature": ""
+  "global": { "minVersion": "1.0.0", "notice": "", "killSwitch": false },
+  "licenses": [
+    {
+      "hwid": "CD5DA10C922AA67B817A", 
+      "alias": "내PC", 
+      "tier": "premium", 
+      "status": "active",
+      "issued": "2026-09-07", 
+      "expires": "2099-12-31",
+      "maxWaypoints": 30, 
+      "dailyLimit": 10, 
+      "graceDays": 7,
+      "features": ["qr","print","pdf"], 
+      "note": "", "message": ""
+    }
+  ]
 }
