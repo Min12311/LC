@@ -3,7 +3,7 @@
   "global": { "minVersion": "1.0.0", "notice": "테스트 Notice", "killSwitch": false },
   "licenses": [
     {
-      "hwid": "CD5DA10C922AA67B817A", 
+      "hwid": "CD5DA10C922AA67B817", 
       "alias": "내PC", 
       "tier": "premium", 
       "status": "active",
@@ -17,7 +17,7 @@
       "message": ""
     },
     {
-      "hwid": "CD5DA10C922AA67B817A", 
+      "hwid": "CD5DA10C922AA67B817", 
       "alias": "최ㄱㅅ", 
       "tier": "premium", 
       "status": "active",
