@@ -15,6 +15,20 @@
       "features": ["qr","print","pdf"], 
       "note": "", 
       "message": ""
+    },
+    {
+      "hwid": "CD5DA10C922AA67B817A", 
+      "alias": "최ㄱㅅ", 
+      "tier": "premium", 
+      "status": "active",
+      "issued": "2026-09-08", 
+      "expires": "2026-12-31",
+      "maxWaypoints": 30, 
+      "dailyLimit": 10, 
+      "graceDays": 7,
+      "features": ["qr","print","pdf"], 
+      "note": "", 
+      "message": ""
     }
   ]
 }
