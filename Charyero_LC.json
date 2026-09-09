@@ -8,7 +8,7 @@
       "tier": "premium", 
       "status": "active",
       "issued": "2026-09-07", 
-      "expires": "2026-12-29",
+      "expires": "2026-12-30",
       "maxWaypoints": 30, 
       "dailyLimit": 10, 
       "graceDays": 7,
