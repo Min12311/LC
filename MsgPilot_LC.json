@@ -1,9 +1,15 @@
-"licenses": [
+{
+  "version": 1,
+  "global": {
+    "notice": "",
+    "killSwitch": false
+  },
   
-  { "hwid": "51ABCF71B2983825947E", "alias": "개발 PC", "tier": "premium",
-    "status": "active", "issued": "2026-09-15", "expires": "2099-12-31" },
-  
-  { "hwid": "고객에게받은20자리", "alias": "홍길동", "tier": "standard",
-    "status": "active", "issued": "2026-09-20", "expires": "2027-09-19" }
-  
-]
+  "licenses": [
+    {
+      "hwid": "51ABCF71B2983825947E", "alias": "개발 PC",  "issued": "2026-09-15",  "note": "내 PC. 개발/시연용",
+      "tier": "premium",       "expires": "2099-12-31",  "status": "active", "message": ""  
+    }
+    
+  ]
+}
