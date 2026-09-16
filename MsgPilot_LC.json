@@ -10,6 +10,9 @@
       "hwid": "51ABCF71B2983825947E", "alias": "개발 PC",  "issued": "2026-09-15",  "note": "내 PC. 개발/시연용",
       "tier": "premium",       "expires": "2099-12-31",  "status": "active", "message": ""  
     }
-    
+    , {
+      "hwid": "ECC26F442A1229FE1DB8", "alias": "개발 PC",  "issued": "2026-09-16",  "note": "내 PC. 개발/시연용",
+      "tier": "premium",       "expires": "2030-12-31",  "status": "active", "message": ""  
+    }
   ]
 }
