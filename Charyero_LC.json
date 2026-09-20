@@ -17,12 +17,27 @@
       "message": ""
     },
     {
-      "hwid": "DBC20B36153C558AE80A", 
+      "hwid": "43FF93CEFB5C5B274E46", 
       "alias": "최ㄱㅅ", 
       "tier": "premium", 
       "status": "active",
       "issued": "2026-09-08", 
-      "expires": "2026-12-31",
+      "expires": "2027-12-31",
+      "maxWaypoints": 30, 
+      "dailyLimit": 10, 
+      "graceDays": 7,
+      "features": ["qr","print","pdf"], 
+      "note": "", 
+      "message": ""
+    }
+
+    ,{
+      "hwid": "DBC20B36153C558AE80A", 
+      "alias": "한ㅎ철", 
+      "tier": "premium", 
+      "status": "active",
+      "issued": "2026-09-08", 
+      "expires": "2027-12-31",
       "maxWaypoints": 30, 
       "dailyLimit": 10, 
       "graceDays": 7,
