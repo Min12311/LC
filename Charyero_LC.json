@@ -45,5 +45,20 @@
       "note": "", 
       "message": ""
     }
+
+   ,{
+      "hwid": "6A78B56645195B23E90C", 
+      "alias": "대팔ㅇ", 
+      "tier": "premium", 
+      "status": "active",
+      "issued": "2026-09-08", 
+      "expires": "2027-12-31",
+      "maxWaypoints": 30, 
+      "dailyLimit": 10, 
+      "graceDays": 7,
+      "features": ["qr","print","pdf"], 
+      "note": "", 
+      "message": ""
+    }
   ]
 }
