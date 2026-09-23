@@ -60,5 +60,20 @@
       "note": "", 
       "message": ""
     }
+
+ ,{
+      "hwid": "15D4459ED1A9125625C4", 
+      "alias": "규식세컨노트북", 
+      "tier": "premium", 
+      "status": "active",
+      "issued": "2026-09-08", 
+      "expires": "2027-12-31",
+      "maxWaypoints": 30, 
+      "dailyLimit": 10, 
+      "graceDays": 7,
+      "features": ["qr","print","pdf"], 
+      "note": "", 
+      "message": ""
+    }
   ]
 }
