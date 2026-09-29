@@ -7,13 +7,24 @@
   },
   "licenses": [
     {
-      "hwid": "CD5DA10C922AA67B817A",
+      "hwid": "C318269F8F4BD2C94A2E",
       "alias": "개발PC",
       "status": "active",
       "issued": "2026-09-11",
       "expires": "2026-12-31",
       "features": [],
       "note": "개발/테스트용",
+      "message": ""
+    }
+
+    ,  {
+      "hwid": "CD5DA10C922AA67B817A",
+      "alias": "이상범",
+      "status": "active",
+      "issued": "2026-09-11",
+      "expires": "2027-12-31",
+      "features": [],
+      "note": "ㄱㄱ",
       "message": ""
     }
   ]
